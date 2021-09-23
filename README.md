@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @STudio26
 - 👀 I’m interested in... many things
-- 🌱 I’m currently learning TDD, reading about DDD and all the ggod practices
+- 🌱 I’m currently learning TDD, reading about DDD and all the good practices
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
