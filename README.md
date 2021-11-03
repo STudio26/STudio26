@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STudio26
 - 👀 I’m interested in... many things
-- 🌱 I’m currently learning TDD, reading about DDD and all the good practices
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning TDD, reading about DDD and all the good practices. I bougth "Clean Architecture" and plan to get it on November 4th
+- 💞️ I’m looking to collaborate on wathever project using good practices
 - 📫 How to reach me ...
 
 <!---
